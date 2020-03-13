@@ -11,4 +11,3 @@ Navigate to Task/intellij folder then clik on runIde.
 Example inputs and output:
 Click on Abstact Factory button enter "MyFactory" for class name, "Bank" for product type, "Chase" for product name and "com.myfactory" without the quotes
 then click OK. The files will be in src/main/java/com.factory
-
